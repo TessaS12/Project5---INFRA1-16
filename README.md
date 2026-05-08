@@ -1,6 +1,6 @@
 # CIVE 202 - Project 5: INFRA1-16
 An Analysis of Drinking Water Access in Sub-Saharan Africa, using the JMP WaSH Database. 
-The goal of this project is to examine the JMP Household water access dataset to analyze trends in drinking water access, especially by comparing results between countries over time.
+The goal of this project is to examine the JMP Household water access dataset to analyze trends in drinking water access, especially by comparing results between countries over time. Our code and final report include time-series graphs and figures to aid in analysis of this data.
 
 ## Repo Structure
 This repository includes the following files:
