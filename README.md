@@ -4,7 +4,7 @@ The goal of this project is to examine the JMP Household water access dataset to
 
 ## Repo Structure
 This repository includes the following files:
-- [Raw Data]()
+- [Raw Data](Water-Access-.CSVs)
 - [Notebook]()
 - [Flowchart](CIVE202_Spring2026_INFRA-1_FlowDiagram.pdf)
 - [Gantt Chart](CIVE202_Spring2026_INFRA01_16_Project5_GanttChart.xlsx)
